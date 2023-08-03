@@ -1,8 +1,12 @@
 # Staying up to date
 The Slack #general weekly update messages are sent out on Wed at Noon. They have all the info about whats going on this week and they are a great way to stay informed.  
 
+#### Link to class recordings:
+* [Class recording links](https://docs.google.com/document/d/189LxQqRPn2ODXMkwsvsXWs426jf0TP1m_BkJjVNyTFc/edit?usp=sharing)
+* Remember, if you cannot access it it means you are using the email account that is not associated with CTP.  Only the emails that you have shared with us have permission to view the file above. 
 
 # Agenda
+0. Remind me to start recording.  
 1. Review last weeks HW.
 2. Questions about last weeks topics because they are super important to have down before we move forward. 
 3. This weeks lecture
